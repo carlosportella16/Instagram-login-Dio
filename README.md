@@ -1,5 +1,5 @@
 # Instagram Login Page
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Carlos16071996/devclass-001/blob/master/LICENSE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Carlos16071996/Instagram-login-Dio/blob/main/LICENSE) 
 
 # Sobre o projeto
 
