@@ -13,6 +13,10 @@ A aplicação consiste na cópia da página de login do Instagram.
 
 https://instagramlogincopy.netlify.app
 
+<div align="left">
+<img src="https://user-images.githubusercontent.com/66968264/153597262-468225fd-5744-49ae-a1d4-ea0d6b9dd351.PNG" width="700px" />
+</div>
+
 
 # Autor
 
